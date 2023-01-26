@@ -8,13 +8,17 @@ import math
 ### Step 2: 
 assign the cordinates points to a variable
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![WhatsApp Image 2023-01-26 at 12 59 56](https://user-images.githubusercontent.com/118344695/214780596-e9edf06e-b7a4-414b-97de-1fd777d30ad9.jpg)
+
 ### Step 4: 
 print the value
 ### Step 5: 
 end of the program
 ### PROGRAM:
 ```
+developed by:
+name:mithun ms
+ref no:22008364
 import math as m
 l1=[4,2]
 l2=[10,6]
