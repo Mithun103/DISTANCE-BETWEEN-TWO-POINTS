@@ -8,7 +8,9 @@ import math
 ### Step 2: 
 assign the cordinates points to a variable
 ### Step 3: 
-Substitute the values in the distance formula  ![WhatsApp Image 2023-01-26 at 12 59 56](https://user-images.githubusercontent.com/118344695/214780596-e9edf06e-b7a4-414b-97de-1fd777d30ad9.jpg)
+Substitute the values in the distance formula 
+
+![WhatsApp Image 2023-01-26 at 12 59 56](https://user-images.githubusercontent.com/118344695/214780596-e9edf06e-b7a4-414b-97de-1fd777d30ad9.jpg)
 
 ### Step 4: 
 print the value
